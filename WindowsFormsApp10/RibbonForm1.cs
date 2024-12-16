@@ -55,12 +55,5 @@ namespace WindowsFormsApp10
                 e.Cancel = true; 
             }
         }
-
-        private void barButtonItem3_ItemClick(object sender, ItemClickEventArgs e)
-        {
-            quanlisodobanFRM quanlisodoban = new quanlisodobanFRM();
-            quanlisodoban.MdiParent = this;
-            quanlisodoban.Show();
-        }
     }
 }
