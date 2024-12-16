@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:ribbonform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|d:\\codegit\\demo1\\windowsformsapp10\\quanlisodobanfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\quanlisodobanfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:quanlisodobanfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -58,8 +58,7 @@
               "RelativeToolTip": "danhsachnhanvien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T12:49:39.287Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "quanlisodobanFRM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T19:00:14.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T19:00:14.758Z"
             },
             {
               "$type": "Document",
@@ -95,8 +93,7 @@
               "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\quanlisodobanFRM.cs [Design]",
               "RelativeToolTip": "quanlisodobanFRM.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T18:40:25.125Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-14T18:40:25.125Z"
             },
             {
               "$type": "Document",
@@ -107,8 +104,7 @@
               "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\RibbonForm1.cs [Design]",
               "RelativeToolTip": "RibbonForm1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T12:47:42.695Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-04T12:47:42.695Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\DangnhapFRM.cs [Design]",
               "RelativeToolTip": "DangnhapFRM.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T16:44:04.148Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-14T16:44:04.148Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "RibbonForm1.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAuwDYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T12:50:37.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T12:50:37.005Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "DangnhapFRM.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAmwCQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T17:11:32.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T17:11:32.762Z"
             },
             {
               "$type": "Document",
@@ -158,8 +151,7 @@
               "RelativeToolTip": "danhsachnhanvien.cs",
               "ViewState": "AQIAAKUAAAAAAAAAAAAmwLkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:12:45.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T15:12:45.483Z"
             }
           ]
         }

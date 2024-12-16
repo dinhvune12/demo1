@@ -88,6 +88,9 @@
     <EmbeddedResource Include="DangnhapFRM.resx">
       <DependentUpon>DangnhapFRM.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="dish.resx">
+      <DependentUpon>dish.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
