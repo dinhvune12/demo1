@@ -85,11 +85,23 @@
     <Compile Include="quanlisodobanFRM.Designer.cs">
       <DependentUpon>quanlisodobanFRM.cs</DependentUpon>
     </Compile>
-    <Compile Include="XtraForm1.cs">
+    <Compile Include="table2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="XtraForm1.Designer.cs">
-      <DependentUpon>XtraForm1.cs</DependentUpon>
+    <Compile Include="table2.Designer.cs">
+      <DependentUpon>table2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="table3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="table3.Designer.cs">
+      <DependentUpon>table3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tablenumber1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablenumber1.Designer.cs">
+      <DependentUpon>tablenumber1.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="DangnhapFRM.resx">
       <DependentUpon>DangnhapFRM.cs</DependentUpon>
@@ -116,6 +128,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="quanlisodobanFRM.resx">
       <DependentUpon>quanlisodobanFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="table2.resx">
+      <DependentUpon>table2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="table3.resx">
+      <DependentUpon>table3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablenumber1.resx">
+      <DependentUpon>tablenumber1.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

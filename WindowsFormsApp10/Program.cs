@@ -16,7 +16,7 @@ namespace WindowsFormsApp10
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new DangnhapFRM());
+            Application.Run(new quanlisodobanFRM());
         }
     }
 }
