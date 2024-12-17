@@ -55,5 +55,23 @@ namespace WindowsFormsApp10
                 e.Cancel = true; 
             }
         }
+
+        private void barButtonItem3_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            thanhToan tt = new thanhToan();
+            tt.Show();
+        }
+
+        private void barButtonItem4_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            XuatHoaDon xhd = new XuatHoaDon();
+            xhd.Show();
+        }
+
+        private void barButtonItem5_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            BaoCao bc = new BaoCao();
+            bc.Show();
+        }
     }
 }

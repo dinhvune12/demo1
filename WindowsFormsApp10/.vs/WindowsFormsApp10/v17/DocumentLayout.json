@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\codegit\\demo1\\WindowsFormsApp10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|d:\\codegit\\demo1\\windowsformsapp10\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|d:\\codegit\\demo1\\windowsformsapp10\\baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\ribbonform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:ribbonform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\xuathoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:xuathoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\xuathoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:xuathoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\xuathoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:xuathoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\quanlisodobanfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -19,16 +43,12 @@
       "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:quanlisodobanfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\dangnhapfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:dangnhapfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\ribbonform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:ribbonform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\dangnhapfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "danhsachnhanvien.cs [Design]",
               "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\danhsachnhanvien.cs",
               "RelativeDocumentMoniker": "danhsachnhanvien.cs",
@@ -62,31 +82,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dish.cs [Design]",
-              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\dish.cs",
-              "RelativeDocumentMoniker": "dish.cs",
-              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\dish.cs [Design]",
-              "RelativeToolTip": "dish.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "XuatHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\XuatHoaDon.cs",
+              "RelativeDocumentMoniker": "XuatHoaDon.cs",
+              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\XuatHoaDon.cs [Design]",
+              "RelativeToolTip": "XuatHoaDon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:55:43.174Z",
+              "WhenOpened": "2024-12-17T07:51:52.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaoCao.cs [Design]",
+              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\BaoCao.cs",
+              "RelativeDocumentMoniker": "BaoCao.cs",
+              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\BaoCao.cs [Design]",
+              "RelativeToolTip": "BaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:26:28.866Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "quanlisodobanFRM.cs",
-              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\quanlisodobanFRM.cs",
-              "RelativeDocumentMoniker": "quanlisodobanFRM.cs",
-              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\quanlisodobanFRM.cs",
-              "RelativeToolTip": "quanlisodobanFRM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "thanhToan.cs [Design]",
+              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\thanhToan.cs",
+              "RelativeDocumentMoniker": "thanhToan.cs",
+              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\thanhToan.cs [Design]",
+              "RelativeToolTip": "thanhToan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T19:00:14.758Z"
+              "WhenOpened": "2024-12-17T06:49:33.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "XuatHoaDon.cs",
+              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\XuatHoaDon.cs",
+              "RelativeDocumentMoniker": "XuatHoaDon.cs",
+              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\XuatHoaDon.cs",
+              "RelativeToolTip": "XuatHoaDon.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAwwEQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:19:17.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "thanhToan.cs",
+              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\thanhToan.cs",
+              "RelativeDocumentMoniker": "thanhToan.cs",
+              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\thanhToan.cs",
+              "RelativeToolTip": "thanhToan.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAwwGcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:18:29.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaoCao.cs",
+              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\BaoCao.cs",
+              "RelativeDocumentMoniker": "BaoCao.cs",
+              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\BaoCao.cs",
+              "RelativeToolTip": "BaoCao.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwDUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:26:35.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XuatHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\XuatHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "XuatHoaDon.Designer.cs",
+              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\XuatHoaDon.Designer.cs",
+              "RelativeToolTip": "XuatHoaDon.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:27:33.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "quanlisodobanFRM.cs [Design]",
               "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\quanlisodobanFRM.cs",
               "RelativeDocumentMoniker": "quanlisodobanFRM.cs",
@@ -97,18 +175,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RibbonForm1.cs [Design]",
-              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\RibbonForm1.cs",
-              "RelativeDocumentMoniker": "RibbonForm1.cs",
-              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\RibbonForm1.cs [Design]",
-              "RelativeToolTip": "RibbonForm1.cs [Design]",
+              "DocumentIndex": 9,
+              "Title": "quanlisodobanFRM.cs",
+              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\quanlisodobanFRM.cs",
+              "RelativeDocumentMoniker": "quanlisodobanFRM.cs",
+              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\quanlisodobanFRM.cs",
+              "RelativeToolTip": "quanlisodobanFRM.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T12:47:42.695Z"
+              "WhenOpened": "2024-12-14T19:00:14.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
+              "Title": "DangnhapFRM.cs",
+              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\DangnhapFRM.cs",
+              "RelativeDocumentMoniker": "DangnhapFRM.cs",
+              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\DangnhapFRM.cs",
+              "RelativeToolTip": "DangnhapFRM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:11:32.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dish.cs [Design]",
+              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\dish.cs",
+              "RelativeDocumentMoniker": "dish.cs",
+              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\dish.cs [Design]",
+              "RelativeToolTip": "dish.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:55:43.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "DangnhapFRM.cs [Design]",
               "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\DangnhapFRM.cs",
               "RelativeDocumentMoniker": "DangnhapFRM.cs",
@@ -119,31 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RibbonForm1.cs",
-              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\RibbonForm1.cs",
-              "RelativeDocumentMoniker": "RibbonForm1.cs",
-              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\RibbonForm1.cs",
-              "RelativeToolTip": "RibbonForm1.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAuwDYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T12:50:37.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DangnhapFRM.cs",
-              "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\DangnhapFRM.cs",
-              "RelativeDocumentMoniker": "DangnhapFRM.cs",
-              "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\DangnhapFRM.cs",
-              "RelativeToolTip": "DangnhapFRM.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAmwCQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T17:11:32.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "danhsachnhanvien.cs",
               "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\danhsachnhanvien.cs",
               "RelativeDocumentMoniker": "danhsachnhanvien.cs",

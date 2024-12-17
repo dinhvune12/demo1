@@ -53,6 +53,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaoCao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCao.Designer.cs">
+      <DependentUpon>BaoCao.cs</DependentUpon>
+    </Compile>
     <Compile Include="DangnhapFRM.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,6 +91,21 @@
     <Compile Include="quanlisodobanFRM.Designer.cs">
       <DependentUpon>quanlisodobanFRM.cs</DependentUpon>
     </Compile>
+    <Compile Include="thanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thanhToan.Designer.cs">
+      <DependentUpon>thanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XuatHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XuatHoaDon.Designer.cs">
+      <DependentUpon>XuatHoaDon.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BaoCao.resx">
+      <DependentUpon>BaoCao.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="DangnhapFRM.resx">
       <DependentUpon>DangnhapFRM.cs</DependentUpon>
     </EmbeddedResource>
@@ -110,6 +131,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="quanlisodobanFRM.resx">
       <DependentUpon>quanlisodobanFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thanhToan.resx">
+      <DependentUpon>thanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XuatHoaDon.resx">
+      <DependentUpon>XuatHoaDon.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
