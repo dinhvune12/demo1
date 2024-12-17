@@ -1,0 +1,6 @@
+C:\codegig\obj\Debug\WindowsFormsApp10.csproj.AssemblyReference.cache
+C:\codegig\obj\Debug\WindowsFormsApp10.DangnhapFRM.resources
+C:\codegig\obj\Debug\WindowsFormsApp10.RibbonForm1.resources
+C:\codegig\obj\Debug\WindowsFormsApp10.danhsachnhanvien.resources
+C:\codegig\obj\Debug\WindowsFormsApp10.quanlisodobanFRM.resources
+C:\codegig\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache

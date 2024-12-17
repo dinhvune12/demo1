@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp10
 {
-    partial class XtraForm1
+    partial class XtraForm2
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "XtraForm1";
+            this.Text = "XtraForm2";
         }
 
         #endregion

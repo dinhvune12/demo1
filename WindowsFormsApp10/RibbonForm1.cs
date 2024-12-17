@@ -55,5 +55,12 @@ namespace WindowsFormsApp10
                 e.Cancel = true; 
             }
         }
+
+        private void barButtonItem3_ItemClick(object sender, ItemClickEventArgs e)
+        {
+           quanlisodoban quanlisodobanne = new quanlisodoban();
+            quanlisodobanne.MdiParent = this;
+            quanlisodobanne.Show();
+        }
     }
 }
