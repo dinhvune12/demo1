@@ -58,6 +58,7 @@ namespace WindowsFormsApp10
 
         private void barButtonItem3_ItemClick(object sender, ItemClickEventArgs e)
         {
+<<<<<<< HEAD
             thanhToan tt = new thanhToan();
             tt.Show();
         }
@@ -72,6 +73,11 @@ namespace WindowsFormsApp10
         {
             BaoCao bc = new BaoCao();
             bc.Show();
+=======
+           quanlisodoban quanlisodobanne = new quanlisodoban();
+            quanlisodobanne.MdiParent = this;
+            quanlisodobanne.Show();
+>>>>>>> 6d4dab5c83fa8761bb6841e6f83901e23e580249
         }
     }
 }

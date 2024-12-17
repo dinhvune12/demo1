@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp10
@@ -16,16 +14,7 @@ namespace WindowsFormsApp10
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new quanlisodobanFRM());
+            Application.Run(new XtraForm2());
         }
-    }
-    public class MonAn
-    {
-        public int MaMonAn { get; set; }
-        public string TenMonAn { get; set; }
-        public decimal Gia { get; set; }
-        public string MoTa { get; set; }
-        public bool TrangThai { get; set; }
-        public string HinhAnh { get; internal set; }
     }
 }
