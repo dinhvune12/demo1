@@ -55,5 +55,25 @@ namespace WindowsFormsApp10
                 e.Cancel = true; 
             }
         }
+
+        private void barButtonItem3_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frm_TableStatus tableStatusForm = new frm_TableStatus();
+            tableStatusForm.Show();
+        }
+
+        private void barButtonItem4_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frm_LichLV lichLamViecForm = new frm_LichLV();
+
+            // Hiển thị form
+            lichLamViecForm.Show();
+        }
+
+        private void barButtonItem5_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmlichchamcong lichchamcongform = new frmlichchamcong();
+            lichchamcongform.Show();
+        }
     }
 }

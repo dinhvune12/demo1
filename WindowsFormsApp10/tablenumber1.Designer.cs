@@ -29,21 +29,12 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(tablenumber1));
-            this.label4 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
+            this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // label4
-            // 
-            this.label4.Location = new System.Drawing.Point(240, 191);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(595, 45);
-            this.label4.TabIndex = 9;
-            this.label4.Text = "Hình mãu của cái bàn";
             // 
             // pictureBox1
             // 
@@ -55,22 +46,6 @@
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
             // 
-            // label3
-            // 
-            this.label3.Location = new System.Drawing.Point(53, 146);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(595, 45);
-            this.label3.TabIndex = 7;
-            this.label3.Text = "Do đội ngũ kĩ thuật viên top 1 thế giới thiết kế";
-            // 
-            // label2
-            // 
-            this.label2.Location = new System.Drawing.Point(53, 101);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(595, 45);
-            this.label2.TabIndex = 6;
-            this.label2.Text = "Sản xuất năm 2025";
-            // 
             // label1
             // 
             this.label1.Location = new System.Drawing.Point(53, 56);
@@ -79,6 +54,23 @@
             this.label1.TabIndex = 5;
             this.label1.Text = "Bàn có thể chưa tối da 5 người";
             // 
+            // labelControl1
+            // 
+            this.labelControl1.Location = new System.Drawing.Point(56, 126);
+            this.labelControl1.Name = "labelControl1";
+            this.labelControl1.Size = new System.Drawing.Size(84, 16);
+            this.labelControl1.TabIndex = 10;
+            this.labelControl1.Text = "Tình trạng bàn";
+            this.labelControl1.Click += new System.EventHandler(this.labelControl1_Click);
+            // 
+            // labelControl2
+            // 
+            this.labelControl2.Location = new System.Drawing.Point(227, 135);
+            this.labelControl2.Name = "labelControl2";
+            this.labelControl2.Size = new System.Drawing.Size(54, 16);
+            this.labelControl2.TabIndex = 11;
+            this.labelControl2.Text = "còn trống";
+            // 
             // tablenumber1
             // 
             this.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
@@ -86,24 +78,23 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(992, 662);
-            this.Controls.Add(this.label4);
+            this.Controls.Add(this.labelControl2);
+            this.Controls.Add(this.labelControl1);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "tablenumber1";
             this.Text = "tablenumber1";
+            this.Load += new System.EventHandler(this.tablenumber1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Label label4;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private DevExpress.XtraEditors.LabelControl labelControl1;
+        private DevExpress.XtraEditors.LabelControl labelControl2;
     }
 }

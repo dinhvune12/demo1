@@ -65,6 +65,24 @@
     <Compile Include="dish.Designer.cs">
       <DependentUpon>dish.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmcalam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcalam.Designer.cs">
+      <DependentUpon>frmcalam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlichchamcong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlichchamcong.Designer.cs">
+      <DependentUpon>frmlichchamcong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_LichLV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_LichLV.Designer.cs">
+      <DependentUpon>frm_LichLV.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_TableStatus.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,6 +132,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="dish.resx">
       <DependentUpon>dish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcalam.resx">
+      <DependentUpon>frmcalam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlichchamcong.resx">
+      <DependentUpon>frmlichchamcong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_LichLV.resx">
+      <DependentUpon>frm_LichLV.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_TableStatus.resx">
       <DependentUpon>frm_TableStatus.cs</DependentUpon>

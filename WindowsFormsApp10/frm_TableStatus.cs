@@ -17,5 +17,24 @@ namespace WindowsFormsApp10
         {
             InitializeComponent();
         }
+
+        private void simpleButton1_Click(object sender, EventArgs e)
+        {
+            tablenumber1 tableNumberForm = new tablenumber1();
+            tableNumberForm.Show();
+        }
+
+        private void simpleButton2_Click(object sender, EventArgs e)
+        {
+            table2 tableNumberForm = new table2();
+            tableNumberForm.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            table3 tableNumberForm = new table3();
+            tableNumberForm.Show(); 
+
+        }
     }
 }

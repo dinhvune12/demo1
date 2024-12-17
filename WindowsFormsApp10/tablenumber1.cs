@@ -17,5 +17,15 @@ namespace WindowsFormsApp10
         {
             InitializeComponent();
         }
+
+        private void tablenumber1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelControl1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
