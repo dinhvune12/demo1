@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\codegit\\demo1\\WindowsFormsApp10\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\frmmanagetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:frmmanagetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|d:\\codegit\\demo1\\windowsformsapp10\\frmdivideworkschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:frmdivideworkschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\frmtimekeeping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:frmtimekeeping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\frmmanagetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|solutionrelative:frmmanagetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44733468-7D3A-4DFD-86C3-81E9A554B718}|WindowsFormsApp10.csproj|D:\\codegit\\demo1\\WindowsFormsApp10\\frmdivideworkschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmDivideWorkSchedule.cs [Design]",
               "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\FrmDivideWorkSchedule.cs",
               "RelativeDocumentMoniker": "FrmDivideWorkSchedule.cs",
@@ -95,18 +95,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "FrmManageTime.cs [Design]",
               "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\FrmManageTime.cs",
               "RelativeDocumentMoniker": "FrmManageTime.cs",
               "ToolTip": "D:\\codegit\\demo1\\WindowsFormsApp10\\FrmManageTime.cs [Design]",
               "RelativeToolTip": "FrmManageTime.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T09:40:03.085Z"
+              "WhenOpened": "2024-12-17T09:40:03.085Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FrmTimekeeping.cs [Design]",
               "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\FrmTimekeeping.cs",
               "RelativeDocumentMoniker": "FrmTimekeeping.cs",
@@ -117,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RibbonForm1.cs [Design]",
               "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\RibbonForm1.cs",
               "RelativeDocumentMoniker": "RibbonForm1.cs",
@@ -128,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RibbonForm1.cs",
               "DocumentMoniker": "D:\\codegit\\demo1\\WindowsFormsApp10\\RibbonForm1.cs",
               "RelativeDocumentMoniker": "RibbonForm1.cs",
@@ -160,7 +161,8 @@
               "RelativeToolTip": "FrmManageTime.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAawB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T09:42:31.577Z"
+              "WhenOpened": "2024-12-17T09:42:31.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
