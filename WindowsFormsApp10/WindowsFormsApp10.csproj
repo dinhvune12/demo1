@@ -65,6 +65,42 @@
     <Compile Include="dish.Designer.cs">
       <DependentUpon>dish.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmDivideWorkSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDivideWorkSchedule.Designer.cs">
+      <DependentUpon>FrmDivideWorkSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInventoryFollow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInventoryFollow.Designer.cs">
+      <DependentUpon>FrmInventoryFollow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmManageTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmManageTime.Designer.cs">
+      <DependentUpon>FrmManageTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTimekeeping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTimekeeping.Designer.cs">
+      <DependentUpon>FrmTimekeeping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUpdateIngre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdateIngre.Designer.cs">
+      <DependentUpon>FrmUpdateIngre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nhapNguyenLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nhapNguyenLieu.Designer.cs">
+      <DependentUpon>nhapNguyenLieu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RibbonForm1.cs">
@@ -85,17 +121,35 @@
     <Compile Include="quanlisodobanFRM.Designer.cs">
       <DependentUpon>quanlisodobanFRM.cs</DependentUpon>
     </Compile>
-    <Compile Include="XtraForm1.cs">
+    <Compile Include="XtraForm2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="XtraForm1.Designer.cs">
-      <DependentUpon>XtraForm1.cs</DependentUpon>
+    <Compile Include="XtraForm2.Designer.cs">
+      <DependentUpon>XtraForm2.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="DangnhapFRM.resx">
       <DependentUpon>DangnhapFRM.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="dish.resx">
       <DependentUpon>dish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDivideWorkSchedule.resx">
+      <DependentUpon>FrmDivideWorkSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInventoryFollow.resx">
+      <DependentUpon>FrmInventoryFollow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmManageTime.resx">
+      <DependentUpon>FrmManageTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTimekeeping.resx">
+      <DependentUpon>FrmTimekeeping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdateIngre.resx">
+      <DependentUpon>FrmUpdateIngre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nhapNguyenLieu.resx">
+      <DependentUpon>nhapNguyenLieu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -116,6 +170,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="quanlisodobanFRM.resx">
       <DependentUpon>quanlisodobanFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraForm2.resx">
+      <DependentUpon>XtraForm2.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

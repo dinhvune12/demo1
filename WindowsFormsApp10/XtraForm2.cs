@@ -11,9 +11,9 @@ using DevExpress.XtraEditors;
 
 namespace WindowsFormsApp10
 {
-    public partial class XtraForm1 : DevExpress.XtraEditors.XtraForm
+    public partial class XtraForm2 : DevExpress.XtraEditors.XtraForm
     {
-        public XtraForm1()
+        public XtraForm2()
         {
             InitializeComponent();
         }

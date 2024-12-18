@@ -55,5 +55,35 @@ namespace WindowsFormsApp10
                 e.Cancel = true; 
             }
         }
+
+        private void barButtonItem3_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            FrmUpdateIngre NNL = new FrmUpdateIngre();
+            NNL.Show();
+        }
+
+        private void barButtonItem4_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            FrmInventoryFollow ITF = new FrmInventoryFollow();
+            ITF.Show();
+        }
+
+        private void barButtonItem6_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            FrmManageTime manageTime = new FrmManageTime(); 
+            manageTime.Show();  
+        }
+
+        private void barButtonItem5_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            FrmTimekeeping TKP = new FrmTimekeeping();
+            TKP.Show();
+        }
+
+        private void barButtonItem7_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            FrmDivideWorkSchedule Dive = new FrmDivideWorkSchedule();               
+            Dive.Show();
+        }
     }
 }

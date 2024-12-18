@@ -304,7 +304,7 @@
             this.label1.Location = new System.Drawing.Point(5, 0);
             this.label1.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1345, 69);
+            this.label1.Size = new System.Drawing.Size(1335, 69);
             this.label1.TabIndex = 25;
             this.label1.Text = "Quản lí sơ đồ bàn";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -316,7 +316,7 @@
             this.Appearance.Options.UseBackColor = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1315, 750);
+            this.ClientSize = new System.Drawing.Size(1305, 750);
             this.Controls.Add(this.button12);
             this.Controls.Add(this.button11);
             this.Controls.Add(this.button10);
